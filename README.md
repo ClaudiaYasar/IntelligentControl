@@ -5,6 +5,7 @@
 
 This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Eng.
 
+
 ![image](https://github.com/ClaudiaYasar/IntelligentControl/assets/132692602/a1b666e9-dc20-4b43-a181-dd4769bfdf63)
 
 # Course Description
