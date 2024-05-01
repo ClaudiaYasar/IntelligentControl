@@ -2,7 +2,7 @@
 
 # Intelligent Control Systems  by Asst. Prof. Dr. Claudia F. Yaşar
 
-[![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange](mathworks.com/matlabcentral/fileexchange/164356-intelligent-control-systems-curriculum-asst-prof-dr-claudia-f-yasar)
+[![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/132303-intelligent-control-systems-asst-prof-dr-claudia-f-yasar)
 
 This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Eng.
 
