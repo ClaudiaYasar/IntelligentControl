@@ -16,6 +16,6 @@ Computational Thinking Tools for Control Engineers, Dynamical System Modeling, M
 In addition to learning how to use intelligent systems to manage complicated designed systems, students will examine the principles that underlie them.
 Students must use computationally effective tools to analyze dynamics and control systems in order to evaluate the practical concerns for experimental or simulated structures.
 Students must finish a specific project, assess system performance, and have a comprehensive understanding of various data-driven modelling, data-driven methodologies, and data-driven control applications.
-# Acknowledgments
 
+# Acknowledgments
 I would like to express my gratitude to the students of the Intelligent Control Systems course of the YTÜ Control and Automation Engineering department, Class of Fall 2022, whose dedication and hard work made this project possible. I am also deeply thankful to Doctors Marco Rossi, Julia Hoerner, and Melda Ulusoy for their invaluable contributions.
