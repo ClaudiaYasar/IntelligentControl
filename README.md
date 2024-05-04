@@ -5,10 +5,7 @@
 [![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/132303-intelligent-control-systems-asst-prof-dr-claudia-f-yasar)
 
 This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Eng.
-
 ![image](https://github.com/ClaudiaYasar/IntelligentControl/assets/132692602/4e647fc0-4a2f-4d2a-803c-708021acab12)
-
-
 
 # Course Description
 The lecture on intelligent control systems explains intelligence-based control systems that can be used to steer complicated systems while overcoming modelling challenges. Expert systems, machine learning, and deep learning are a few examples of intelligent control systems. These systems use a high-level decision-making process to generate the control signal based on a qualitative or heuristic understanding of the process.
